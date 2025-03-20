@@ -1,0 +1,13 @@
+*.psd
+.DS_Store
+*.meta
+**/Library/*
+**/Temp/*
+obj/Debug
+.vs
+*.csproj
+Logs
+Logs/*
+.log
+AR App Build
+AR App Build/*
